@@ -3,12 +3,30 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/style": "^0.8.0",
+    "@emotion/styled": "^11.11.5",
+    "@firebase/app": "^0.10.5",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/icons-material": "^5.15.20",
+    "@mui/material": "^5.15.20",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv-dist": "^8.16.0",
+    "axios": "^1.7.2",
+    "bootstrap": "^3.4.1",
+    "codegen": "^0.1.0",
+    "firebase": "^10.12.2",
+    "rc-slider": "^10.6.2",
     "react": "^18.3.1",
+    "react-bootstrap": "^2.10.3",
     "react-dom": "^18.3.1",
+    "react-inner-image-zoom": "^3.0.2",
+    "react-range-slider-input": "^3.0.7",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ajv": "^7.2.4"
   }
 }

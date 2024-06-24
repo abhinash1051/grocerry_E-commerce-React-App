@@ -1,0 +1,29 @@
+.bannerSection{padding: 25px 0px;flex-direction: column; } */
+
+.bannerSection .col{border-radius: 15px; cursor: pointer;} */
+.bannerSection .col:hover img{transform: scale(1.1)}
+
+.bannerSection .box1{
+    /* display: flex;
+    flex-direction: row-reverse; */
+    margin-left:1510px;
+    
+}
+.bannerSection .box2{
+    margin-left: 100px;
+    margin-top: -210px;
+    
+}
+.bannerSection .box3{
+    margin-left:810px;
+    margin-top: -250px;
+    
+}
+.bannerSection .box1{border-radius: 15px; cursor: pointer;} 
+.bannerSection .box1:hover img{transform: scale(1.1)}
+
+.bannerSection .box2{border-radius: 15px; cursor: pointer;} 
+.bannerSection .box2:hover img{transform: scale(1.1)}
+
+.bannerSection .box3{border-radius: 15px; cursor: pointer;} 
+.bannerSection .box3:hover img{transform: scale(1.1)}
